@@ -72,6 +72,7 @@ A Low-Cost Smart Water Monitoring & Prediction System for Vulnerable Communities
 
 6. **AI & Machine Learning System**
    - Edge AI (TinyML)
+     
      TinyML Model Detects:
      - Contamination anomalies
      - Sudden sensor deviations

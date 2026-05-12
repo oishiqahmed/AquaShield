@@ -5,14 +5,13 @@ A Low-Cost Smart Water Monitoring & Prediction System for Vulnerable Communities
 - Build an affordable, scalable, AI-driven water monitoring system that detects contamination early, predicts future risks, and protects vulnerable communities — especially rural and underserved regions.
 
 - The system combines:
-  ``
-	*IoT sensors*
-	*Edge AI (TinyML)*
-	*Cloud-based machine learning*
-	*Real-time dashboards (Website, Mobile App)*
-	*Predictive analytics*
-	*Community-scale deployment*
-  ``
+	- *IoT sensors*
+	- *Edge AI (TinyML)*
+	- *Cloud-based machine learning*
+	- *Real-time dashboards (Website, Mobile App)*
+	- *Predictive analytics*
+	- *Community-scale deployment*
+
 - Goal:
 	Enable fast, decentralized, intelligent water safety monitoring at extremely low cost.
 
@@ -40,6 +39,7 @@ A Low-Cost Smart Water Monitoring & Prediction System for Vulnerable Communities
 
 4. **System Overview**
 - Architecture Layers
+``
 	[Water Sources]
 	       ↓
 	[IoT Sensor Nodes]
@@ -53,6 +53,7 @@ A Low-Cost Smart Water Monitoring & Prediction System for Vulnerable Communities
 	[Dashboard + Alerts]
 	       ↓
 	[Authorities / Communities]
+``
 
 5. **Hardware Components**
 - ESP32 Microcontroller

@@ -79,7 +79,7 @@ A Low-Cost Smart Water Monitoring & Prediction System for Vulnerable Communities
      - Unusual environmental patterns
      - Sensor malfunction behavior
 
-     Why TinyML?
+     Advantages of using TinyML:
      - Faster response
      - Works offline
      - Reduces cloud dependency

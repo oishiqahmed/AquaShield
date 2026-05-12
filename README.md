@@ -191,4 +191,5 @@ A Low-Cost Smart Water Monitoring & Prediction System for Vulnerable Communities
     Reducing monitoring costs
     Expanding access to safe water infrastructure
     ```
-    - By combining IoT, TinyML, cloud AI, and low-cost networking, the system can become a scalable solution for Bangladesh and other climate-vulnerable regions worldwide.
+    ``` By combining IoT, TinyML, cloud AI, and low-cost networking, the system can become a scalable solution for Bangladesh and other climate-vulnerable regions worldwide.
+    ```

@@ -162,6 +162,7 @@ A Low-Cost Smart Water Monitoring & Prediction System for Vulnerable Communities
     Also contributes to:
     - SDG 3 (Good Health)
     - SDG 9 (Industry & Innovation)
+    - SDG 11 (Sustainable Cities and Communities)
     - SDG 13 (Climate Action)
 
 12. **Climate Risk Maps**
@@ -172,16 +173,16 @@ A Low-Cost Smart Water Monitoring & Prediction System for Vulnerable Communities
 
 13. **Future Expansion Ideas**
     - Advanced Features
-    - AI-powered contamination source tracing
-    - Satellite integration
-    - SMS alerts for low-connectivity regions
-    - Blockchain-secured environmental records
+       - AI-powered contamination source tracing
+       - Satellite integration
+       - SMS alerts for low-connectivity regions
+       - Blockchain-secured environmental records
     - Different versions of the system based on usage and affordability:
       - Additional Sensors
-      - Dissolved oxygen
-      - Heavy metal detection
-      - Salinity sensors
-      - Biological contamination sensors
+         - Dissolved oxygen
+         - Heavy metal detection
+         - Salinity sensors
+         - Biological contamination sensors
 
 14. **Final Project Summary**
     - This project creates a decentralized AI-powered water intelligence system capable of:

@@ -172,7 +172,7 @@ A Low-Cost Smart Water Monitoring & Prediction System for Vulnerable Communities
     - Industrial contamination hotspots
 
 13. **Future Expansion Ideas**
-    - Advanced Features
+    - Advanced Features:
        - AI-powered contamination source tracing
        - Satellite integration
        - SMS alerts for low-connectivity regions

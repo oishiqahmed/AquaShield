@@ -1,5 +1,5 @@
 ## AI-Powered Water Contamination Intelligence Network
-A Low-Cost Smart Water Monitoring & Prediction System for Vulnerable Communities
+WaterLloyd is a low-cost smart water monitoring & prediction system designed for vulnerable communities.
 
 1. **Vision**
    - Build an affordable, scalable, AI-driven water monitoring system that detects contamination early, predicts future risks, and protects vulnerable communities — especially rural and underserved regions.
